@@ -30,7 +30,7 @@ JuliaLocalPreferences.toml
 # MacOS-specific files
 .DS_Store
 
-# Project-specific instructions for Claude Code
+# Project-specific instructions for local Claude Code
 CLAUDE.md
 
 # Julia binary distributions (too large for git)
@@ -44,3 +44,6 @@ lib/
 
 # Local funding documentation
 docs/funding/
+
+# Docs I don't want to upload to github
+private/

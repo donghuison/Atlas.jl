@@ -52,7 +52,7 @@ We are documenting this collaboration process, as we believe it may offer insigh
 
 This work is currently funded through:
 - Paula's Claude Pro subscription for strategic planning and synthesis work
-- Anthropic's $250 research preview credit for Claude Code (web interface), which enabled the intensive code archaeology work
+- Anthropic's $250 credit for Claude Code Web (research preview), which enabled the intensive code archaeology work
 
 We are grateful to Anthropic for making the technology available and for the research credit that catalyzed this project. Future phases will depend on securing additional computational resources, potentially through research credit applications to AI organizations or traditional grant funding.
 

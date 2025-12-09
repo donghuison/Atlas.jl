@@ -70,6 +70,12 @@ We believe in transparency about both process and product:
 
 ---
 
+## License
+
+ATLAS Suite in Julia is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details. We've chosen BSD 3-Clause to maximize accessibility while providing clear legal terms, following modern open science best practices.
+
+---
+
 ## Repository Structure (abridged)
 
 ```

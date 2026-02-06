@@ -8,7 +8,7 @@ This project was born from a sense of urgency. [Robert Kurucz (1938-2025)](https
 
 ## What is the ATLAS Suite?
 
-The ATLAS Suite is a collection of Fortran programs for stellar atmosphere modeling and synthetic spectrum synthesis, developed primarily by Robert Kurucz with contributions from late Fiorella Castelli, John Lester, M. Stift, Piercarlo Bonifacio, Luca Sbordone among others. These codes have been foundational tools in astronomy for decades, used to:
+The ATLAS Suite is a collection of Fortran programs for stellar atmosphere modeling and synthetic spectrum synthesis, developed primarily by Robert Kurucz with contributions from late Fiorella Castelli, John Lester, M. Stift, Piercarlo Bonifacio, Luca Sbordone, among others. These codes have been foundational tools in astronomy for decades, used to:
 
 - Compute stellar atmosphere models (ATLAS9, ATLAS12)
 - Synthesize high-resolution stellar spectra (SYNTHE)
@@ -37,7 +37,7 @@ The suite represents approximately **487,000 lines of Fortran 77 code** spanning
 
 ## Methodology: Human-AI Collaboration
 
-This project represents an experiment in scientific software preservation through human-AI collaboration. Paula Coelho and Marcos Diaz (astrophysicists, Universidade de São Paulo) brings deep domain expertise in stellar atmospheres and stellar populations. Claude (Anthropic's AI assistant) provides computational analysis capabilities, pattern recognition, and documentation support.
+This project represents an experiment in scientific software preservation through human-AI collaboration. Paula Coelho and Marcos Diaz (astrophysicists, Universidade de São Paulo) bring deep domain expertise in stellar atmospheres and stellar populations. Claude AI (Anthropic) provides computational analysis capabilities, pattern recognition, and documentation support.
 
 The collaboration leverages complementary strengths:
 - **Domain expertise**: Understanding why certain numerical approaches were chosen, what physics is being modeled, which changes are meaningful
